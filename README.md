@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mechanical Engineer
 -------------------
 
-I have been learning to code for 1 year. I started with Python.
+I have been learning to code for 2 years. I started with Python.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [murat.uzng@gmail.com](mailto:murat.uzng@gmail.com)
